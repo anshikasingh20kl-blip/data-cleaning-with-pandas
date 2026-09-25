@@ -1,1 +1,2 @@
-# data-cleaning-with-pandas
+python-jupyter-project
+this is a data cleaning project
